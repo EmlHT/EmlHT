@@ -1,5 +1,5 @@
 ![Simple Travail LinkedIn Bannière](https://github.com/EmlHT/EmlHT/assets/115173542/0ab5eff3-8fb0-43fa-81c7-894de6b96be9)
-###                     Welcome to my GitHub👋
+<p align="center">Welcome to my GitHub👋</p>
 
 <!--
 **EmlHT/EmlHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
