@@ -34,9 +34,10 @@ Hey! I'm Emilien Houot, a passionate student at **42 Nice**. Currently, I'm divi
     Thanks for stopping by! Feel free to browse my repos, star your favorites, and give me feedback!
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://visitor-badge.glitch.me/badge?page_id=EmlHT.EmlHT" alt="Visitors Badge">
 </p>
+-->
 
 
 <!--
