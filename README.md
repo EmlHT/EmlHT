@@ -8,14 +8,14 @@ Hey! I'm Emilien Houot, a passionate student at **42 Nice**. Currently, I'm divi
 
 ## 🌱 What I'm Currently Learning
 
-- Delving deeper into the C language.
-- Solving complex problems. (as minishell)
+- Delving deeper into the C, C++ language.
+- Solving complex problems. (as minishell, IRC Server)
 - Collaborating with teams to drive projects to completion.
 
 ## 🛠 Tools & Technologies
 
-- **Languages:** C.
-- **Tools:** VSCode, Vim, GCC.
+- **Languages:** C, C++.
+- **Tools:** VSCode, Vim, GCC, Docker.
 
 ## 📫 How to Reach Me
 
