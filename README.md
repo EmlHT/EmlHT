@@ -14,8 +14,8 @@ Hey! I'm Emilien Houot, a passionate student at **42 Nice**. Currently, I'm divi
 
 ## 🛠 Tools & Technologies
 
-- **Languages:** C, C++.
-- **Tools:** VSCode, Vim, GCC, Docker.
+- **Languages:** C, C++, HTML, CSS, JavaScript, NextJS, React, Django.
+- **Tools:** VSCode, Vim, GCC, Docker, Git.
 
 ## 📫 How to Reach Me
 
