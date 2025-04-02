@@ -8,13 +8,14 @@ Hey! I'm Emilien Houot, a passionate student at **42 Nice**. Currently, I'm divi
 
 ## 🌱 What I'm Currently Learning
 
-- Delving deeper into the C, C++ language.
+- Delving deeper into the C, C++ language, HTML/CSS/JS, React, Next, Django.
 - Solving complex problems. (as minishell, IRC Server)
-- Collaborating with teams to drive projects to completion.
+- Collaborating with teams to drive projects to completion. (ft_transcendence)
+- Learning Dart & Flutter.
 
 ## 🛠 Tools & Technologies
 
-- **Languages:** C, C++, HTML, CSS, JavaScript, NextJS, React, Django.
+- **Languages:** C, C++, HTML, CSS, JavaScript, NextJS, React, Django. (Learning Dart & Flutter)
 - **Tools:** VSCode, Vim, GCC, Docker, Git.
 
 ## 📫 How to Reach Me
