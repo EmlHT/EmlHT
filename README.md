@@ -2,56 +2,115 @@
 
 ![Emilien Houot](https://github.com/EmlHT/EmlHT/assets/115173542/0ab5eff3-8fb0-43fa-81c7-894de6b96be9)
 
+<h1 align="center">Hi, I'm Emilien Houot 👋</h1>
+
+<p align="center">
+  Software Developer | IoT | Data Engineering | AI & Algorithms
+</p>
+
+---
+
 ## 📚 About Me
 
-Hey! I'm Emilien Houot, a passionate student at **42 Nice**. Currently, I'm diving deep into the world of C language and always eager to learn and tackle new challenges.
+I'm Emilien Houot, a software development student at **42 Lyon**.
 
-## 🌱 What I'm Currently Learning
+Currently working as an **IoT Developer**, I develop solutions around data collection, analysis and valorization. I work on KPI generation, database management and software tools to help transform raw data into meaningful information.
 
-- Delving deeper into the C, C++ language, HTML/CSS/JS, React, Next, Django.
-- Solving complex problems. (as minishell, IRC Server)
-- Collaborating with teams to drive projects to completion. (ft_transcendence)
-- Learning Dart & Flutter.
+I'm interested in **software engineering, data processing, artificial intelligence and algorithmic problem solving**.
 
-## 🛠 Tools & Technologies
+---
 
-- **Languages:** C, C++, HTML, CSS, JavaScript, NextJS, React, Django. (Learning Dart & Flutter)
-- **Tools:** VSCode, Vim, GCC, Docker, Git.
+## 💼 Professional Experience
 
-## 📫 How to Reach Me
+### IoT Developer
 
-- LinkedIn: [Emilien Houot](https://www.linkedin.com/in/emilien-houot/)
-<!-- Email: your.email@example.com-->
+Currently working on:
 
-## 🚀 Fun Facts About Me
+* 📊 Data analysis and KPI development
+* 🗄️ Database management and optimization
+* 🔄 Data processing and valorization
+* ⚙️ Development of internal software tools
+* 🌐 IoT-related solutions and connected systems
 
-- I enjoy night-time coding 🌙
-- Huge coffee enthusiast ☕️
-- Always seeking inspiration 🌐
+---
+
+## 🌱 Currently Learning
+
+* Exploring **algorithm design and optimization**
+* Improving my skills in **data processing and AI**
+* Developing software architectures and backend systems
+
+---
+
+## 🚀 Projects
+
+### ft_transcendence
+
+A full-stack multiplayer Pong application developed as part of the 42 curriculum.
+
+* Real-time communication using WebSockets
+* User authentication and profiles
+* Multiplayer game features
+* Backend and frontend architecture
+
+**Technologies:** TypeScript, React, Next.js, Django, PostgreSQL, Redis, Docker
+
+---
+
+### Inception
+
+A system administration and Docker infrastructure project.
+
+* Multi-container architecture
+* Service configuration and networking
+* Database and web server deployment
+* Linux environment management
+
+**Technologies:** Docker, Nginx, MariaDB, Linux
+
+---
+
+## 🛠 Technologies & Tools
+
+### Programming Languages
+
+* C / C++
+* Python
+* JavaScript 
+* SQL
+
+### Software Development
+
+* Backend development
+* API design
+* Database management
+* Data processing
+* Algorithmics
+
+### Tools & Environment
+
+* Linux
+* NodeJS
+* Docker
+* Git
+* VSCode
+
+---
+
+## 📫 Contact
+
+* LinkedIn: [Emilien Houot](https://www.linkedin.com/in/emilien-houot/)
+
+---
+
+## ☕ Fun Facts
+
+* I enjoy solving complex technical problems
+* Huge coffee enthusiast ☕️
+* Always curious about new technologies and how things work
 
 ---
 
 <p align="center">
-    Thanks for stopping by! Feel free to browse my repos, star your favorites, and give me feedback!
+  Thanks for visiting my profile! Feel free to explore my projects and connect with me.
 </p>
-
-<!-- <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=EmlHT.EmlHT" alt="Visitors Badge">
-</p>
--->
-
-
-<!--
-**EmlHT/EmlHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
